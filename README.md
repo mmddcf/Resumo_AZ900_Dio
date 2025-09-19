@@ -17,3 +17,12 @@ Configurando uma instância de Banco de Dados na Azure
   - somente pelo SQL
   - ou por ambos
 - explicado também a redundância para que o sistema fique o menor tempo possível fora do ar
+
+
+Construindo Arquiteturas no Azure
+- Explicando a localização dos Datacenter
+- Brazil south replica para os EUA enquanto Brasil southeast replica para Brazil south devido a LGPD
+- houve também uma caminhada virtual por um datacenter da MS
+
+Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+-Criação e validação de uma VM
